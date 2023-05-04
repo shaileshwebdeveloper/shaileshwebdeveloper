@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shaileshwebdeveloper.github.io/](https://shaileshwebdeveloper.github.io/)
 
-- 📫 How to reach me **shaileshwebdeveloper@gmail.com**
+- 📫 How to reach me **shailesh.webdevelopment@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Up7hLmJFWR-_Kb8IspQ5VU1n0xSafwqZ/view?usp=sharing](https://drive.google.com/file/d/1Up7hLmJFWR-_Kb8IspQ5VU1n0xSafwqZ/view?usp=sharing)
 
